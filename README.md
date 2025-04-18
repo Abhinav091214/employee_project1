@@ -94,7 +94,7 @@ To use this project and run the SQL queries locally:
 1. **Clone the repository** to your local machine:
 
     ```bash
-    git clone https://github.com/YourUsername/employee_sql_project.git
+    git clone https://github.com/Abhinav091214/employee_project1.git
     ```
 
 2. **Set up the database** by running the provided SQL scripts to create tables and insert data.
